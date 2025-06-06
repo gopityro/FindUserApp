@@ -90,7 +90,7 @@ After starting the server, you can verify that the app is running and the API is
 Open your browser and navigate to: `http://localhost:5050/` you should see similar to below screenshot:
 <img width="687" alt="image" src="https://github.com/user-attachments/assets/131f01c7-5896-40ee-881c-73ab5c87b3de" />
 
-### 2. Test User API Endpoint
+### 2. Test API Endpoint
 I have used postman to test this api
 #### 1. using valid user ID
 ```bash
