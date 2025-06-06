@@ -1,4 +1,6 @@
 /**
+ * @file seed.js
+ * @description
  * Seed Script for FindUserApp
  * 
  * Inserts sample user documents into the 'users' collection.
@@ -9,9 +11,9 @@
  *      2. Set the MONGO_URI environment variable or use the default.
  *      3. Run the script using Node.js: `node scripts/seed.js`
  * 
- * Author: Naga Gopi Mallolu
- * Date: 5th June 2025
- * Project: FindUserApp
+ * @author Naga Gopi Mallolu
+ * @version 1.0.0
+ * @date June 5, 2025
  */
 
 require('dotenv').config();

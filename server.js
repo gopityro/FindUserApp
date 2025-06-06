@@ -1,3 +1,12 @@
+/**
+ * @file server.js
+ * @description Entry point of the FindUserApp. Loads environment variables, 
+ *              establishes a connection to MongoDB, and starts the Express server.
+ * 
+ * @author Naga Gopi Mallolu
+ * @version 1.0.0
+ * @date June 6, 2025
+ */
 require('dotenv').config();
 const app = require('./src/app');
 const connectDB = require('./src/config/db');
