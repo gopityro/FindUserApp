@@ -76,7 +76,7 @@ Success: Inserted 3 users:
   age: 18
 }
 ```
-### 4.Run Server
+### 4.Start Server
 ```bash
 node server.js
 ```
